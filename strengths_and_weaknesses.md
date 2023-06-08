@@ -1,1 +1,3 @@
+# Strengths
 
+# Weaknesses
