@@ -6,3 +6,4 @@
 # Weaknesses
 
 1. Some training is required to use and understand the branching and history models in Git.
+2. Mistakes can be made when using Git.
